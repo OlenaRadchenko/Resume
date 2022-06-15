@@ -77,7 +77,7 @@ body {
 }
 .my-projects-list-link {
   font-weight: normal;
-  color: var(--middle-dark);
+  color: var(--my-black);
   text-decoration: none;
 }
 /* My work experience section */
@@ -98,7 +98,7 @@ body {
   font-weight: normal;
   font-size: 12px;
   line-height: 15px;
-  color: var(--light-dark);
+  color: var(--middle-dark);
   margin: 0 0 10px 0;
 }
 .company-divider {
@@ -133,7 +133,7 @@ body {
   font-weight: normal;
   font-size: 12px;
   line-height: 15px;
-  color: var(--light-dark);
+  color: var(--middle-dark);
   margin: 0 0 10px 0;
 }
 .education-divider {
