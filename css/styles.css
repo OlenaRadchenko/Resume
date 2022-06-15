@@ -10,6 +10,7 @@
 body {
   background-color: var(--my-back);
   font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
 }
 .main-container {
   display: flex;
@@ -28,7 +29,6 @@ body {
   margin: 0 0 40px 0;
 }
 .about-me-profession {
-  font-style: normal;
   font-weight: bold;
   font-size: 24px;
   line-height: 17px;
@@ -36,7 +36,6 @@ body {
   margin: 0 0 20px 0;
 }
 .about-me-name {
-  font-style: normal;
   font-weight: bold;
   font-size: 45px;
   line-height: 55px;
@@ -45,7 +44,6 @@ body {
 }
 .about-me-text {
   width: auto;
-  font-style: normal;
   font-weight: normal;
   font-size: 14px;
   line-height: 24px;
@@ -57,7 +55,6 @@ body {
   margin: 0 0 50px 0;
 }
 .my-section-title {
-  font-style: normal;
   font-weight: bold;
   font-size: 22px;
   line-height: 27px;
@@ -69,38 +66,35 @@ body {
   margin: 10px 0 0 0;
 }
 .my-projects-list-item {
-  font-style: normal;
   font-weight: bold;
   font-size: 14px;
   line-height: 24px;
   color: var(--my-black);
 }
 .my-projects-list-text {
-  font-weight: normal;
-  color: var(--middle-dark);
+  color: var(--my-orange);
   margin-left: 5px;
 }
 .my-projects-list-link {
   font-weight: normal;
   color: var(--middle-dark);
+  text-decoration: none;
 }
 /* My work experience section */
 .my-work-experience-company {
   margin: 0 15px 0 0;
 }
 .company-position {
-  font-style: normal;
   font-weight: bold;
   font-size: 16px;
   line-height: 20px;
-  color: var(--my-black);
+  color: var(--middle-dark);
   margin: 0 0 10px 0;
 }
 .company-title {
   color: var(--my-orange);
 }
 .company-period {
-  font-style: normal;
   font-weight: normal;
   font-size: 12px;
   line-height: 15px;
@@ -115,7 +109,6 @@ body {
   margin: 10px 0 15px 0;
 }
 .company-duties-item {
-  font-style: normal;
   font-weight: normal;
   font-size: 14px;
   line-height: 24px;
@@ -123,7 +116,6 @@ body {
 }
 /* My education section */
 .education-institution {
-  font-style: normal;
   font-weight: bold;
   font-size: 16px;
   line-height: 20px;
@@ -131,15 +123,13 @@ body {
   margin: 0 0 10px 0;
 }
 .education-speciality {
-  font-style: normal;
   font-weight: bold;
   font-size: 14px;
   line-height: 17px;
-  color: var(--my-black);
+  color: var(--middle-dark);
   margin: 0 0 10px 0;
 }
 .education-period {
-  font-style: normal;
   font-weight: normal;
   font-size: 12px;
   line-height: 15px;
@@ -162,7 +152,6 @@ body {
 }
 .sidebar-title {
   color: var(--my-white);
-  font-style: normal;
   font-weight: bold;
   font-size: 22px;
   line-height: 27px;
@@ -179,7 +168,6 @@ body {
 }
 .contacts-section-type {
   color: var(--my-white);
-  font-style: normal;
   font-weight: bold;
   font-size: 14px;
   line-height: 24px;
@@ -187,7 +175,6 @@ body {
 }
 .contacts-section-link {
   color: var(--my-white);
-  font-style: normal;
   font-weight: normal;
   font-size: 14px;
   line-height: 24px;
@@ -202,7 +189,6 @@ body {
 }
 .skills-text {
   color: var(--my-white);
-  font-style: normal;
   font-weight: normal;
   font-size: 14px;
   line-height: 24px;
