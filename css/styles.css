@@ -21,7 +21,7 @@ body {
 .about-me-profession {
   font-style: normal;
   font-weight: bold;
-  font-size: 14px;
+  font-size: 24px;
   line-height: 17px;
   color: #000;
   margin: 0 0 20px 0;
@@ -160,6 +160,14 @@ body {
   margin-bottom: 10px;
 }
 /* Contacts section */
+.contacts-list {
+  list-style: none;
+  padding: 0;
+}
+.contacts-item {
+  display: flex;
+  margin-bottom: 5px;
+}
 .contacts-section-type {
   color: white;
   font-style: normal;
@@ -174,6 +182,8 @@ body {
   font-weight: normal;
   font-size: 14px;
   line-height: 24px;
+  text-decoration: none;
+  margin-left: 5px;
 }
 /* Tech and soft skills sections */
 .skills-list {
