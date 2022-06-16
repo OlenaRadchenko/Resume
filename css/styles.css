@@ -96,7 +96,7 @@ body {
 }
 .company-period {
   font-weight: normal;
-  font-size: 12px;
+  font-size: 14px;
   line-height: 15px;
   color: var(--middle-dark);
   margin: 0 0 10px 0;
@@ -131,7 +131,7 @@ body {
 }
 .education-period {
   font-weight: normal;
-  font-size: 12px;
+  font-size: 14px;
   line-height: 15px;
   color: var(--middle-dark);
   margin: 0 0 10px 0;
