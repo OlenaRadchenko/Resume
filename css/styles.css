@@ -22,11 +22,11 @@ body {
 }
 /* Main content section */
 .main-content-section {
-  padding: 100px 90px;
+  padding: 80px 90px;
 }
 /* About me section */
 .about-me-section {
-  margin: 0 0 40px 0;
+  margin: 0 0 20px 0;
 }
 .about-me-profession {
   font-weight: bold;
@@ -52,7 +52,7 @@ body {
 }
 /* My projects section */
 .my-section {
-  margin: 0 0 50px 0;
+  margin: 0 0 30px 0;
 }
 .my-section-title {
   font-weight: bold;
@@ -84,15 +84,19 @@ body {
 .my-work-experience-company {
   margin: 0 15px 0 0;
 }
+.company-title {
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  color: var(--my-orange);
+  margin: 0 0 10px 0;
+}
 .company-position {
   font-weight: bold;
   font-size: 16px;
   line-height: 20px;
   color: var(--middle-dark);
   margin: 0 0 10px 0;
-}
-.company-title {
-  color: var(--my-orange);
 }
 .company-period {
   font-weight: normal;
