@@ -69,11 +69,11 @@ body {
   font-weight: bold;
   font-size: 14px;
   line-height: 24px;
-  color: var(--my-black);
+  color: var(--middle-dark);
 }
 .my-projects-list-text {
   color: var(--my-orange);
-  margin-left: 5px;
+  margin-left: 0px;
 }
 .my-projects-list-link {
   font-weight: normal;
@@ -141,16 +141,16 @@ body {
   margin: 0 0 10px 0;
 }
 .education-divider {
-  color: var(--my-black);
+  color: var(--middle-dark);
 }
 /* Sidebar section */
 .sidebar-section {
   background: var(--my-sidebar);
-  width: 270px;
+  width: 280px;
   padding: 20px 10px 40px 0px;
 }
 .contacts-section {
-  width: 300px;
+  width: 280px;
   margin: 50px 0 0 40px;
 }
 .tech-skills-section,
