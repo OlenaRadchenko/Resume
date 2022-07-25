@@ -17,12 +17,12 @@ body {
   flex-direction: row-reverse;
   width: 1100px;
   background: var(--my-white);
-  margin: 30px auto;
+  margin: 20px auto;
   box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
 }
 /* Main content section */
 .main-content-section {
-  padding: 70px 70px;
+  padding: 50px 50px 0px 50px;
 }
 /* About me section */
 .about-me-section {
