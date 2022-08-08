@@ -162,7 +162,7 @@ body {
   font-weight: bold;
   font-size: 22px;
   line-height: 1em;
-  margin-bottom: 10px;
+  margin: 0px 0px 20px 0px;
 }
 /* Contacts section */
 .contacts-list {
@@ -171,7 +171,7 @@ body {
 }
 .contacts-item {
   display: flex;
-  margin-bottom: 5px;
+  margin-bottom: 10px;
 }
 .contacts-section-type {
   color: var(--my-white);
